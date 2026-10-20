@@ -1,0 +1,1 @@
+var e=`cola_vip_invite_checkout_context`;function t(t){try{sessionStorage.setItem(e,JSON.stringify(t))}catch{}}function n(e){return!!(e&&e.currency.toUpperCase()===`USD`&&e.amountCents>=9900)}function r(e,t,n,r=!1){return e===`zh`&&(r||!!(t&&n))}export{t as n,r,n as t};

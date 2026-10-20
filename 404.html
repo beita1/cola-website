@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cola 预览站 · 页面跳转</title>
+    <style>
+      body { margin: 0; padding: 48px; font: 16px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #1c1917; }
+      a { color: #a85c25; }
+    </style>
+  </head>
+  <body>
+    <p id="msg">正在跳转…</p>
+    <script>
+      (function () {
+        var path = location.pathname.replace(/\/$/, "");
+        var hasExt = /\.[a-z0-9]+$/i.test(path);
+        var retried = /[?&]p404=1/.test(location.search);
+        if (!hasExt && !retried) {
+          var sep = location.search ? "&" : "?";
+          location.replace(path + ".html" + location.search + sep + "p404=1");
+          return;
+        }
+        document.getElementById("msg").innerHTML =
+          '这个预览站里没有这个页面。<a href="/cola-website/">回到预览首页</a>';
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://colaos.ai/sitemap.xml
+Sitemap: https://colaos.ai/skills/sitemap.xml

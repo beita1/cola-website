@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="zh">
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ColaOS | Cola - 你的第二成长曲线</title>
+    <meta
+      name="description"
+      content="ColaOS，也就是 Cola，是住在你电脑里的 Personal Agent，也是你的第二成长曲线：彻底换一种工作方式，提升认知，开出副业，持续成长。"
+    />
+    <script>
+      (() => {
+        try {
+          if (sessionStorage.getItem("cola-story-locale-scroll")) {
+            document.documentElement.classList.add("is-restoring-story-locale");
+            if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+            window.setTimeout(() => {
+              document.documentElement.classList.remove("is-restoring-story-locale");
+            }, 2000);
+          }
+        } catch {
+          document.documentElement.classList.remove("is-restoring-story-locale");
+        }
+      })();
+    </script>
+    <style>
+      html.is-restoring-story-locale,
+      html.is-restoring-story-locale body {
+        background: #050506;
+      }
+
+      html.is-restoring-story-locale body {
+        opacity: 0;
+      }
+    </style>
+    <script>
+      localStorage.setItem("cola-locale", "zh");
+      document.cookie = "cola-locale=zh; Max-Age=31536000; Path=/; SameSite=Lax";
+    </script>
+    <link rel="icon" type="image/png" sizes="32x32" href="/cola-website/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/cola-website/favicon-16x16.png" />
+    <link rel="icon" type="image/x-icon" href="/cola-website/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/cola-website/apple-touch-icon.png" />
+    <link
+      rel="preload"
+      as="image"
+      href="/cola-website/redesign/v3/cola-bg-hero-v1-mobile.avif"
+      type="image/avif"
+      media="(max-width: 560px)"
+      fetchpriority="high"
+    />
+    <link
+      rel="preload"
+      as="image"
+      href="/cola-website/redesign/v3/cola-bg-hero-v1.avif"
+      type="image/avif"
+      media="(min-width: 561px)"
+      fetchpriority="high"
+    />
+    <link rel="preconnect" href="https://files.colaos.ai" crossorigin />
+    <link rel="canonical" href="/cola-website/zh/" />
+    <link rel="alternate" hreflang="en" href="/cola-website/" />
+    <link rel="alternate" hreflang="zh" href="/cola-website/zh/" />
+    <link rel="alternate" hreflang="x-default" href="/cola-website/" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "ColaOS",
+        "alternateName": "Cola",
+        "url": "https://colaos.ai",
+        "logo": "https://files.colaos.ai/website-assets/cola-official/2026-09-02/ColaLogoSymbol.svg",
+        "sameAs": ["https://x.com/ColaOSofficial", "https://discord.gg/BBNRKEPbvW"],
+        "foundingDate": "2024",
+        "description": "MarsWave（火星回响）打造 ColaOS，也就是 Cola，住在你电脑里的 Personal Agent。她记住你，跨应用替你行动，成为你的第二成长曲线。"
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "ColaOS",
+        "alternateName": "Cola",
+        "url": "https://colaos.ai",
+        "description": "你的第二成长曲线 —— Cola 住在你的电脑里，记住你，并跨应用替你行动。"
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "ColaOS",
+        "alternateName": "Cola",
+        "operatingSystem": "macOS, Windows",
+        "applicationCategory": "ProductivityApplication",
+        "description": "住在你电脑里的 Personal Agent。她记住你是谁，陪你换一种工作方式、提升认知、开出副业、持续成长。",
+        "url": "https://colaos.ai",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "description": "免费开始"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "150"
+        }
+      }
+    </script>
+    <meta property="og:title" content="ColaOS | Cola - 你的第二成长曲线" />
+    <meta
+      property="og:description"
+      content="ColaOS，也就是 Cola，是住在你电脑里的 Personal Agent，也是你的第二成长曲线：彻底换一种工作方式，提升认知，开出副业，持续成长。"
+    />
+    <meta
+      property="og:image"
+      content="https://files.colaos.ai/website-assets/cola-official/2026-09-02/og.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://colaos.ai/zh/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ColaOS | Cola - 你的第二成长曲线" />
+    <meta
+      name="twitter:description"
+      content="ColaOS，也就是 Cola，是住在你电脑里的 Personal Agent，也是你的第二成长曲线：彻底换一种工作方式，提升认知，开出副业，持续成长。"
+    />
+    <meta
+      name="twitter:image"
+      content="https://files.colaos.ai/website-assets/cola-official/2026-09-02/og.png"
+    />
+    <meta name="twitter:url" content="https://colaos.ai/zh/" />
+    <script type="module" crossorigin src="/cola-website/assets/sentry-BO41r49E.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/preload-helper-1VF55O3O.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/analytics-DKd8AOaQ.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/assets-Dg8SH1yK.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/downloads-BgOuwNI9.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/wechat-support-D2jygHng.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/layout-CdhOWl4g.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/download-guide-CxJBOOf9.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/download-router-Cig0te6M.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/login-methods-CEu4XIuy.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/pricing-cards-Dkk-s4_w.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/invite-download-flow-x71Xp4z6.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/redesign-CZXbk5U6.js"></script>
+    <script type="module" crossorigin src="/cola-website/assets/main-BtrKg6sj.js"></script>
+    <link rel="stylesheet" crossorigin href="/cola-website/assets/layout-CTwL-oH9.css">
+    <link rel="stylesheet" crossorigin href="/cola-website/assets/download-router-CHX5rXc_.css">
+    <link rel="stylesheet" crossorigin href="/cola-website/assets/main-DyiofZie.css">
+    <script data-cola-ga="">(function(){var h=location.hostname.toLowerCase();if(h!=="colaos.ai"&&h!=="www.colaos.ai")return;window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){dataLayer.push(arguments);};gtag("js",new Date());var p=location.pathname;var r="";try{var u=new URL(document.referrer);r=u.origin+u.pathname;}catch(e){}gtag("config","G-G1C94EGF81",{page_location:location.origin+p,page_referrer:r});var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=G-G1C94EGF81";document.head.appendChild(s);})();</script>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
