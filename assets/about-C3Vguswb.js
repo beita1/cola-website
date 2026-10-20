@@ -1,8 +1,8 @@
-import"./sentry-BO41r49E.js";import{w as e}from"./analytics-DKd8AOaQ.js";import{a as t,r as n,s as r}from"./layout-CdhOWl4g.js";var i={en:`
+import"./sentry-BO41r49E.js";import{w as e}from"./analytics-BxwlRI5H.js";import{a as t,r as n,s as r}from"./layout-BqCmoxiI.js";var i={en:`
     <h1>About Us</h1>
     <p>
       We are <strong>MarsWave</strong>, the company behind
-      <strong>Cola</strong> — the first Agent Operating System.
+      <strong>Cola</strong>, the first Agent Operating System.
     </p>
 
     <h2>Our Mission</h2>
@@ -29,7 +29,7 @@ import"./sentry-BO41r49E.js";import{w as e}from"./analytics-DKd8AOaQ.js";import{
     </p>
 
     <h2>Contact</h2>
-    <p>Visit us at <a href="https://colaos.ai">colaos.ai</a> or email <a href="mailto:support@marswave.ai">support@marswave.ai</a>.</p>
+    <p>Visit us at <a href="/cola-website">colaos.ai</a> or email <a href="mailto:support@marswave.ai">support@marswave.ai</a>.</p>
   `,zh:`
     <h1>关于我们</h1>
     <p>
@@ -58,7 +58,7 @@ import"./sentry-BO41r49E.js";import{w as e}from"./analytics-DKd8AOaQ.js";import{
     </p>
 
     <h2>联系我们</h2>
-    <p>访问 <a href="https://colaos.ai">colaos.ai</a>，或发邮件至 <a href="mailto:support@marswave.ai">support@marswave.ai</a>。</p>
+    <p>访问 <a href="/cola-website">colaos.ai</a>，或发邮件至 <a href="mailto:support@marswave.ai">support@marswave.ai</a>。</p>
   `};function a(e){return{title:e===`zh`?`关于我们`:`About Us`}}function o(e){let n=a(e);document.documentElement.lang=e,document.title=`${n.title} — Cola`,document.querySelector(`#app`).innerHTML=`
 ${r()}
 <main class="legal-page">

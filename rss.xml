@@ -4,15 +4,15 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ColaOS / Cola Blog</title>
-    <link>https://colaos.ai/blog/</link>
+    <link>/cola-website/blog/</link>
     <description>Product notes, engineering updates, and essays from the ColaOS / Cola team.</description>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jun 2026 00:00:00 GMT</lastBuildDate>
-    <atom:link href="https://colaos.ai/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/cola-website/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Giving an Agent a Self</title>
-      <link>https://colaos.ai/blog/giving-an-agent-a-self/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/giving-an-agent-a-self/</guid>
+      <link>/cola-website/blog/giving-an-agent-a-self/</link>
+      <guid isPermaLink="true">/cola-website/blog/giving-an-agent-a-self/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Ethan</dc:creator>
       <description>Why memory alone does not make an AI agent feel like someone, and how Cola&#39;s self-reference system lets an agent grow through lived experience.</description>
@@ -23,8 +23,8 @@
     </item>
     <item>
       <title>Stop Asking the Agent to Remember</title>
-      <link>https://colaos.ai/blog/stop-asking-the-agent-to-remember/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/stop-asking-the-agent-to-remember/</guid>
+      <link>/cola-website/blog/stop-asking-the-agent-to-remember/</link>
+      <guid isPermaLink="true">/cola-website/blog/stop-asking-the-agent-to-remember/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Ethan</dc:creator>
       <description>Why agent memory should compete for context budget instead of merely storing more, and how Cola uses salience bookmarks and consolidation to keep the main agent focused.</description>
@@ -35,8 +35,8 @@
     </item>
     <item>
       <title>Prompt Caching for Agents: Engineering Practices</title>
-      <link>https://colaos.ai/blog/prompt-caching-for-agents/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/prompt-caching-for-agents/</guid>
+      <link>/cola-website/blog/prompt-caching-for-agents/</link>
+      <guid isPermaLink="true">/cola-website/blog/prompt-caching-for-agents/</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Mack</dc:creator>
       <description>Using the Claude API as an example, this post explains how prompt caching works for agents, what it saves, and how to keep cache hit rates high.</description>
@@ -47,8 +47,8 @@
     </item>
     <item>
       <title>How One Person Manages 20 Repositories: My Agent Harness Engineering Practice</title>
-      <link>https://colaos.ai/blog/agent-harness-engineering-practice/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/agent-harness-engineering-practice/</guid>
+      <link>/cola-website/blog/agent-harness-engineering-practice/</link>
+      <guid isPermaLink="true">/cola-website/blog/agent-harness-engineering-practice/</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>0xFango</dc:creator>
       <description>0xFango explains how Agent Harness turns the deterministic parts of multi-repository agent workflows into explicit engineering protocols.</description>
@@ -59,8 +59,8 @@
     </item>
     <item>
       <title>Vibe Cola: the design thinking behind the first Mod</title>
-      <link>https://colaos.ai/blog/vibe-cola-mod-design/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/vibe-cola-mod-design/</guid>
+      <link>/cola-website/blog/vibe-cola-mod-design/</link>
+      <guid isPermaLink="true">/cola-website/blog/vibe-cola-mod-design/</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Xinbao</dc:creator>
       <description>The new Cola release introduces the Vibe Cola Mod. This post explains why it is not just coding inside chat, but a real coding workspace built on Mod, Scope, Session, and Runner abstractions.</description>
@@ -71,8 +71,8 @@
     </item>
     <item>
       <title>Quality judgment in AI projects is shaped by many links in the chain</title>
-      <link>https://colaos.ai/blog/quality-signals-in-ai-agent-projects/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/quality-signals-in-ai-agent-projects/</guid>
+      <link>/cola-website/blog/quality-signals-in-ai-agent-projects/</link>
+      <guid isPermaLink="true">/cola-website/blog/quality-signals-in-ai-agent-projects/</guid>
       <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Shuo</dc:creator>
       <description>How Cola QA connects pre-review, Eval, CDP, Prism, environments, reports, and release flow so quality signals can support real release decisions.</description>
@@ -84,8 +84,8 @@
     </item>
     <item>
       <title>Some thoughts on pnpm audit --fix</title>
-      <link>https://colaos.ai/blog/some-thoughts-on-pnpm-audit-fix/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/some-thoughts-on-pnpm-audit-fix/</guid>
+      <link>/cola-website/blog/some-thoughts-on-pnpm-audit-fix/</link>
+      <guid isPermaLink="true">/cola-website/blog/some-thoughts-on-pnpm-audit-fix/</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>LitoMore</dc:creator>
       <description>A look at how pnpm audit --fix behaves in pnpm 11, the difference between override and update modes, and the maintenance cost of minimumReleaseAgeExclude.</description>
@@ -96,8 +96,8 @@
     </item>
     <item>
       <title>The evolution of the Windows sandbox design in ColaOS</title>
-      <link>https://colaos.ai/blog/colaos-windows-sandbox-design-evolution/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/colaos-windows-sandbox-design-evolution/</guid>
+      <link>/cola-website/blog/colaos-windows-sandbox-design-evolution/</link>
+      <guid isPermaLink="true">/cola-website/blog/colaos-windows-sandbox-design-evolution/</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Gaoyang</dc:creator>
       <description>Gaoyang explains ColaOS&#39;s Windows fshook sandbox: from Detours-based file IO hooks to process confinement, policy delivery, logging, and violation feedback in production.</description>
@@ -109,8 +109,8 @@
     </item>
     <item>
       <title>From All-Hands Builder to AI Native: a veteran programmer&#39;s repositioning</title>
-      <link>https://colaos.ai/blog/from-all-hands-builder-to-ai-native/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/from-all-hands-builder-to-ai-native/</guid>
+      <link>/cola-website/blog/from-all-hands-builder-to-ai-native/</link>
+      <guid isPermaLink="true">/cola-website/blog/from-all-hands-builder-to-ai-native/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Zili</dc:creator>
       <description>Zili reflects on the shift from ListenHub to ColaOS: from AI-assisted development to making AI produce reliable engineering output in an AI Native team.</description>
@@ -121,8 +121,8 @@
     </item>
     <item>
       <title>A year of chasing AI: learning to assist AI in programming</title>
-      <link>https://colaos.ai/blog/a-year-chasing-ai/</link>
-      <guid isPermaLink="true">https://colaos.ai/blog/a-year-chasing-ai/</guid>
+      <link>/cola-website/blog/a-year-chasing-ai/</link>
+      <guid isPermaLink="true">/cola-website/blog/a-year-chasing-ai/</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <dc:creator>Kaibin</dc:creator>
       <description>Kaibin reflects on a year at MarsWave: moving from AI-assisted coding to engineers organizing context, defining tasks, and assisting AI in programming.</description>

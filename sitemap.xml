@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://colaos.ai/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://colaos.ai/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://colaos.ai/zh/" />
+    <loc>/cola-website/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/cola-website/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="/cola-website/zh/" />
     <lastmod>2026-06-01</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/zh/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://colaos.ai/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://colaos.ai/zh/" />
+    <loc>/cola-website/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="/cola-website/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="/cola-website/zh/" />
     <lastmod>2026-06-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/about</loc>
+    <loc>/cola-website/about</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/privacy</loc>
+    <loc>/cola-website/privacy</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/terms</loc>
+    <loc>/cola-website/terms</loc>
     <lastmod>2026-06-17</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/pricing</loc>
+    <loc>/cola-website/pricing</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/download</loc>
+    <loc>/cola-website/download</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/community</loc>
+    <loc>/cola-website/community</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/cola-crew</loc>
+    <loc>/cola-website/cola-crew</loc>
     <lastmod>2026-06-01</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/</loc>
+    <loc>/cola-website/blog/</loc>
     <lastmod>2026-06-10</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/a-year-chasing-ai/</loc>
+    <loc>/cola-website/blog/a-year-chasing-ai/</loc>
     <lastmod>2026-06-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/from-all-hands-builder-to-ai-native/</loc>
+    <loc>/cola-website/blog/from-all-hands-builder-to-ai-native/</loc>
     <lastmod>2026-06-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/colaos-windows-sandbox-design-evolution/</loc>
+    <loc>/cola-website/blog/colaos-windows-sandbox-design-evolution/</loc>
     <lastmod>2026-06-04</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/some-thoughts-on-pnpm-audit-fix/</loc>
+    <loc>/cola-website/blog/some-thoughts-on-pnpm-audit-fix/</loc>
     <lastmod>2026-06-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/quality-signals-in-ai-agent-projects/</loc>
+    <loc>/cola-website/blog/quality-signals-in-ai-agent-projects/</loc>
     <lastmod>2026-06-06</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/agent-harness-engineering-practice/</loc>
+    <loc>/cola-website/blog/agent-harness-engineering-practice/</loc>
     <lastmod>2026-06-10</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/vibe-cola-mod-design/</loc>
+    <loc>/cola-website/blog/vibe-cola-mod-design/</loc>
     <lastmod>2026-06-07</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/prompt-caching-for-agents/</loc>
+    <loc>/cola-website/blog/prompt-caching-for-agents/</loc>
     <lastmod>2026-06-08</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/giving-an-agent-a-self/</loc>
+    <loc>/cola-website/blog/giving-an-agent-a-self/</loc>
     <lastmod>2026-06-09</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://colaos.ai/blog/stop-asking-the-agent-to-remember/</loc>
+    <loc>/cola-website/blog/stop-asking-the-agent-to-remember/</loc>
     <lastmod>2026-06-09</lastmod>
     <priority>0.6</priority>
   </url>
