@@ -1,4 +1,4 @@
-import{C as e,k as t,p as n}from"./analytics-BxwlRI5H.js";function r(e=`menu`){return`<div class="wechat-support" data-wechat-support data-wechat-location="${e}">
+import{C as e,k as t,p as n}from"./analytics-CZeFDEzo.js";function r(e=`menu`){return`<div class="wechat-support" data-wechat-support data-wechat-location="${e}">
     <button class="wechat-support-trigger" type="button" aria-label="${t(`footer.wechat`)}" aria-expanded="false">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 3C4.6 3 1 5.7 1 9c0 1.8 1 3.4 2.6 4.5L3 16l2.8-1.4c1 .3 2 .4 3.2.4 4.4 0 8-2.7 8-6s-3.6-6-8-6Zm-3 4a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm6 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><path d="M18 9c0 3.9-4 7-9 7h-.5c1.2 2.3 3.8 4 7 4 .9 0 1.8-.1 2.6-.4l2.4 1.2-.5-2.1c1.3-.9 2-2.2 2-3.7 0-2.4-1.6-4.4-4-5.4Z"/></svg>
     </button>

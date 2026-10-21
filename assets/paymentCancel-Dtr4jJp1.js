@@ -1,4 +1,4 @@
-import"./sentry-BO41r49E.js";import{C as e,c as t,k as n}from"./analytics-BxwlRI5H.js";import{a as r,i,r as a,s as o}from"./layout-BqCmoxiI.js";var s=`/cola-website/`;t({pageTitle:`Payment Cancelled - ColaOS / Cola`,pagePath:`/payment-cancel`,params:{site_locale:e()}}),document.querySelector(`#app`).innerHTML=`
+import"./sentry-BO41r49E.js";import{C as e,c as t,k as n}from"./analytics-CZeFDEzo.js";import{a as r,i,r as a,s as o}from"./layout-CK2TuDYe.js";var s=`/cola-website/`;t({pageTitle:`Payment Cancelled - ColaOS / Cola`,pagePath:`/payment-cancel`,params:{site_locale:e()}}),document.querySelector(`#app`).innerHTML=`
 ${i()}
 ${o()}
 

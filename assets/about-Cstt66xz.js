@@ -1,4 +1,4 @@
-import"./sentry-BO41r49E.js";import{w as e}from"./analytics-BxwlRI5H.js";import{a as t,r as n,s as r}from"./layout-BqCmoxiI.js";var i={en:`
+import"./sentry-BO41r49E.js";import{w as e}from"./analytics-CZeFDEzo.js";import{a as t,r as n,s as r}from"./layout-CK2TuDYe.js";var i={en:`
     <h1>About Us</h1>
     <p>
       We are <strong>MarsWave</strong>, the company behind

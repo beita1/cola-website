@@ -1,4 +1,4 @@
-import{w as e}from"./analytics-BxwlRI5H.js";import{a as t,r as n,s as r}from"./layout-BqCmoxiI.js";var i=`<h1>PRIVACY POLICY</h1>
+import{w as e}from"./analytics-CZeFDEzo.js";import{a as t,r as n,s as r}from"./layout-CK2TuDYe.js";var i=`<h1>PRIVACY POLICY</h1>
 <p>Last Updated: August 19, 2026</p>
 
 <h2>1. Introduction</h2>
