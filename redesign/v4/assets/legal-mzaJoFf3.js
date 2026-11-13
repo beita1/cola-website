@@ -1,4 +1,4 @@
-import{r as e}from"./layout-DIDSpWdm.js";import{n as t,t as n}from"./minimal-layout-BjODizxT.js";import{C as r,O as i,w as a}from"./analytics-BU9dly3m.js";var o=`<h1>PRIVACY POLICY</h1>
+import{r as e}from"./layout-DIDSpWdm.js";import{n as t,t as n}from"./minimal-layout-3_vZEyQ_.js";import{C as r,O as i,w as a}from"./analytics-BU9dly3m.js";var o=`<h1>PRIVACY POLICY</h1>
 <p>Last Updated: August 19, 2026</p>
 
 <h2>1. Introduction</h2>
