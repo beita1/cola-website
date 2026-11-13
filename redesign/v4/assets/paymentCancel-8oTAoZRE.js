@@ -1,4 +1,4 @@
-import"./sentry-UPn_sU5S.js";import{a as e,i as t,r as n,s as r}from"./layout-DIDSpWdm.js";import{C as i,k as a}from"./analytics-BU9dly3m.js";var o=`/cola-website/redesign/v4/`;i(),document.querySelector(`#app`).innerHTML=`
+import"./sentry-UPn_sU5S.js";import{a as e,i as t,r as n,s as r}from"./layout-NOfju7TJ.js";import{C as i,k as a}from"./analytics-DK2PBXev.js";var o=`/cola-website/redesign/v4/`;i(),document.querySelector(`#app`).innerHTML=`
 ${t()}
 ${r()}
 

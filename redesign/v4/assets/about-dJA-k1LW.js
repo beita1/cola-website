@@ -1,4 +1,4 @@
-import"./sentry-UPn_sU5S.js";import{r as e}from"./layout-DIDSpWdm.js";import{n as t,t as n}from"./minimal-layout-3_vZEyQ_.js";import{C as r,O as i,w as a}from"./analytics-BU9dly3m.js";import{t as o}from"./markdown-it-up1B3juF.js";var s=`# 小 Cola 的秘密宏图
+import"./sentry-UPn_sU5S.js";import{r as e}from"./layout-NOfju7TJ.js";import{n as t,t as n}from"./minimal-layout-3_vZEyQ_.js";import{C as r,O as i,w as a}from"./analytics-DK2PBXev.js";import{t as o}from"./markdown-it-up1B3juF.js";var s=`# 小 Cola 的秘密宏图
 
 如大家所知，Cola 1.0 是一个有活人感的 AI 产品，主打人味儿的存在、人味儿的服务。她能从工作任务中抽象出对人的深度理解，也因为这份人味儿，大家在效率工具之外更把她当成密友，愿意向她分享更多工作以外的事情。在这个基础上，Cola 1.0 在解决实际问题的同时，也能主动帮用户发现自己，看到工作与生活中没留意的关联和盲点。
 

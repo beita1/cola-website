@@ -1,4 +1,4 @@
-import"./sentry-UPn_sU5S.js";import{d as e,i as t,m as n,u as r}from"./layout-DIDSpWdm.js";import{k as i,m as a}from"./analytics-BU9dly3m.js";import{t as o}from"./skill-download-Cz8Baqjn.js";document.querySelector(`#app`).innerHTML=`
+import"./sentry-UPn_sU5S.js";import{d as e,i as t,m as n,u as r}from"./layout-NOfju7TJ.js";import{k as i,m as a}from"./analytics-DK2PBXev.js";import{t as o}from"./skill-download-Cz8Baqjn.js";document.querySelector(`#app`).innerHTML=`
 ${t()}
 <main class="auth-callback-page">
   <div class="auth-callback-card" id="auth-callback-card">
