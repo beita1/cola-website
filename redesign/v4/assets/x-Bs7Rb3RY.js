@@ -1,0 +1,1 @@
+var e=[[`path`,{d:`M18 6 6 18`}],[`path`,{d:`m6 6 12 12`}]];export{e as t};
